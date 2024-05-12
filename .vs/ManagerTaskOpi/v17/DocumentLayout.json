@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juesd\\source\\repos\\Proyecto Final\\ManagerTaskOpi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{607343A2-5B44-4C2B-AB39-74F29ED66048}|Application\\Application.csproj|c:\\users\\juesd\\source\\repos\\proyecto final\\managertaskopi\\application\\services\\sendnotificationtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607343A2-5B44-4C2B-AB39-74F29ED66048}|Application\\Application.csproj|solutionrelative:application\\services\\sendnotificationtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607343A2-5B44-4C2B-AB39-74F29ED66048}|Application\\Application.csproj|c:\\users\\juesd\\source\\repos\\proyecto final\\managertaskopi\\application\\interface\\isendnotificationtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607343A2-5B44-4C2B-AB39-74F29ED66048}|Application\\Application.csproj|solutionrelative:application\\interface\\isendnotificationtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817644-1221-49C4-8864-B2359F5FEA91}|Api\\Api.csproj|c:\\users\\juesd\\source\\repos\\proyecto final\\managertaskopi\\api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F817644-1221-49C4-8864-B2359F5FEA91}|Api\\Api.csproj|solutionrelative:api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817644-1221-49C4-8864-B2359F5FEA91}|Api\\Api.csproj|c:\\users\\juesd\\source\\repos\\proyecto final\\managertaskopi\\api\\injections\\injectionsdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F817644-1221-49C4-8864-B2359F5FEA91}|Api\\Api.csproj|solutionrelative:api\\injections\\injectionsdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607343A2-5B44-4C2B-AB39-74F29ED66048}|Application\\Application.csproj|c:\\users\\juesd\\source\\repos\\proyecto final\\managertaskopi\\application\\services\\filterimportancetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607343A2-5B44-4C2B-AB39-74F29ED66048}|Application\\Application.csproj|solutionrelative:application\\services\\filterimportancetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607343A2-5B44-4C2B-AB39-74F29ED66048}|Application\\Application.csproj|c:\\users\\juesd\\source\\repos\\proyecto final\\managertaskopi\\application\\interface\\ifilterimportancetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607343A2-5B44-4C2B-AB39-74F29ED66048}|Application\\Application.csproj|solutionrelative:application\\interface\\ifilterimportancetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607343A2-5B44-4C2B-AB39-74F29ED66048}|Application\\Application.csproj|c:\\users\\juesd\\source\\repos\\proyecto final\\managertaskopi\\application\\services\\getalltask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607343A2-5B44-4C2B-AB39-74F29ED66048}|Application\\Application.csproj|solutionrelative:application\\services\\getalltask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendNotificationTask.cs",
+              "DocumentMoniker": "C:\\Users\\juesd\\source\\repos\\Proyecto Final\\ManagerTaskOpi\\Application\\Services\\SendNotificationTask.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\SendNotificationTask.cs",
+              "ToolTip": "C:\\Users\\juesd\\source\\repos\\Proyecto Final\\ManagerTaskOpi\\Application\\Services\\SendNotificationTask.cs",
+              "RelativeToolTip": "Application\\Services\\SendNotificationTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:03:56.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISendNotificationTask.cs",
+              "DocumentMoniker": "C:\\Users\\juesd\\source\\repos\\Proyecto Final\\ManagerTaskOpi\\Application\\Interface\\ISendNotificationTask.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\ISendNotificationTask.cs",
+              "ToolTip": "C:\\Users\\juesd\\source\\repos\\Proyecto Final\\ManagerTaskOpi\\Application\\Interface\\ISendNotificationTask.cs",
+              "RelativeToolTip": "Application\\Interface\\ISendNotificationTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:00:58.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllTask.cs",
+              "DocumentMoniker": "C:\\Users\\juesd\\source\\repos\\Proyecto Final\\ManagerTaskOpi\\Application\\Services\\GetAllTask.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\GetAllTask.cs",
+              "ToolTip": "C:\\Users\\juesd\\source\\repos\\Proyecto Final\\ManagerTaskOpi\\Application\\Services\\GetAllTask.cs",
+              "RelativeToolTip": "Application\\Services\\GetAllTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:35:12.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilterImportanceTask.cs",
+              "DocumentMoniker": "C:\\Users\\juesd\\source\\repos\\Proyecto Final\\ManagerTaskOpi\\Application\\Services\\FilterImportanceTask.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\FilterImportanceTask.cs",
+              "ToolTip": "C:\\Users\\juesd\\source\\repos\\Proyecto Final\\ManagerTaskOpi\\Application\\Services\\FilterImportanceTask.cs",
+              "RelativeToolTip": "Application\\Services\\FilterImportanceTask.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:33:22.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFilterImportanceTask.cs",
+              "DocumentMoniker": "C:\\Users\\juesd\\source\\repos\\Proyecto Final\\ManagerTaskOpi\\Application\\Interface\\IFilterImportanceTask.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\IFilterImportanceTask.cs",
+              "ToolTip": "C:\\Users\\juesd\\source\\repos\\Proyecto Final\\ManagerTaskOpi\\Application\\Interface\\IFilterImportanceTask.cs",
+              "RelativeToolTip": "Application\\Interface\\IFilterImportanceTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:27:58.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InjectionsDependency.cs",
+              "DocumentMoniker": "C:\\Users\\juesd\\source\\repos\\Proyecto Final\\ManagerTaskOpi\\Api\\Injections\\InjectionsDependency.cs",
+              "RelativeDocumentMoniker": "Api\\Injections\\InjectionsDependency.cs",
+              "ToolTip": "C:\\Users\\juesd\\source\\repos\\Proyecto Final\\ManagerTaskOpi\\Api\\Injections\\InjectionsDependency.cs",
+              "RelativeToolTip": "Api\\Injections\\InjectionsDependency.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAEwBMAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:07:50.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\juesd\\source\\repos\\Proyecto Final\\ManagerTaskOpi\\Api\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\juesd\\source\\repos\\Proyecto Final\\ManagerTaskOpi\\Api\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Api\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAD4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:05:34.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

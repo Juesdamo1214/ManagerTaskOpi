@@ -1,0 +1,14 @@
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Domain\obj\Debug\net8.0\ref\Domain.dll
