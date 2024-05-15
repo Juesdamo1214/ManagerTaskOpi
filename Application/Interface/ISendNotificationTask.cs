@@ -8,6 +8,6 @@ namespace Application.Interface
 {
     public interface ISendNotificationTask
     {
-        public void SendNotificationTask();
+        Task SendNotificationTask(string email, string contentText, string user);
     }
 }

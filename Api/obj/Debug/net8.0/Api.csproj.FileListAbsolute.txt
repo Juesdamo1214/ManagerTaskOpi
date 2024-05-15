@@ -125,3 +125,7 @@ C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Api\obj\Debug\net8.0\r
 C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Api\obj\Debug\net8.0\Api.pdb
 C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
 C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Api\bin\Debug\net8.0\SendGrid.dll
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Api\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Api\obj\Debug\net8.0\Api.sourcelink.json

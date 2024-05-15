@@ -17,3 +17,6 @@ C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Infrastructure\obj\Deb
 C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.Resource.Constants.resources
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.GenerateResource.cache
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

@@ -15,3 +15,4 @@ C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Application\obj\Debug\
 C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
 C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\juesd\source\repos\Proyecto Final\ManagerTaskOpi\Application\obj\Debug\net8.0\Application.sourcelink.json
