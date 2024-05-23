@@ -1,14 +1,10 @@
-﻿using Domain.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Domain.Enums;
+using Domain.Models;
 
 namespace Application.Interface
 {
     public interface IUpdateTask
     {
-        TaskEntity UpdateTask (string id,TaskEntity taskEntity);
+        TaskEntity UpdateTask (string id, string title, Importance importance, DateTime expiredDate, string description);
     }
 }

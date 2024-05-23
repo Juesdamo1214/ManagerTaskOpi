@@ -15,9 +15,14 @@ builder.Services.AddDbContext<TaskContext>(options =>
                 options.UseOracle(builder.Configuration.GetConnectionString("DefaultConnection"),
                 b => b.MigrationsAssembly("Api").UseOracleSQLCompatibility(OracleSQLCompatibility.DatabaseVersion21)), ServiceLifetime.Transient);
 
-    builder.Inject();
+builder.Inject();
+builder.Services.AddCors(options => options.AddPolicy("AllowWebapp",
+
+builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()));
 
 var app = builder.Build();
+
+app.UseCors("AllowWebapp");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

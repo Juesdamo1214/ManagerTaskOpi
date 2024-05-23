@@ -22,12 +22,12 @@ namespace Application.Services
         }
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            while (!stoppingToken.IsCancellationRequested)
-            {
-                await _sendNotificationTask.SendNotificationTask("juesdamo1412@gmail.com", "Hola", "Juesdamo");
+            //while (!stoppingToken.IsCancellationRequested)
+            //{
+            //    await _sendNotificationTask.SendNotificationTask("juesdamo1412@gmail.com", "Hola", "Juesdamo");
 
-                await Task.Delay(10000, stoppingToken);
-            }
+            //    await Task.Delay(5000, stoppingToken);
+            //}
         }
     }
 }

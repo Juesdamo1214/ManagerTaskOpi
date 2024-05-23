@@ -69,9 +69,9 @@ namespace Api.Controllers
 
         // PUT api/<TaskController>/5
         [HttpPut("{id}")]
-        public TaskEntity Put(string id, [FromBody] TaskEntity taskEntity)
+        public TaskEntity Put(string id, [FromBody] ModelCreateTask taskEntity)
         {
-            return _updateByIdTask.UpdateTask(id, taskEntity);
+            return _updateByIdTask.UpdateTask(id, taskEntity.Title, taskEntity.Importance, taskEntity.ExpiredTime, taskEntity.Description);
         }
 
         // DELETE api/<TaskController>/5

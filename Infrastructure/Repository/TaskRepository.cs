@@ -20,8 +20,10 @@ namespace Infrastructure.Repository
 
         public void Delete(string id)
         {
-            _context.Remove(id);
+            T entity = _context.Set<T>().Find(id) ?? throw new Exception("Not Found");
+            _context.Set<T>().Remove(entity);
             _context.SaveChanges();
+
         }
 
         public IEnumerable<T> GetAll()

@@ -1,5 +1,6 @@
 ﻿using Application.Interface;
 using Application.Repository;
+using Domain.Enums;
 using Domain.Models;
 using System;
 using System.Collections.Generic;
@@ -17,10 +18,15 @@ namespace Application.Services
         {
             _repositoryTask = repositoryTask;
         }
-        TaskEntity IUpdateTask.UpdateTask(string id,  TaskEntity taskEntityNew)
+        TaskEntity IUpdateTask.UpdateTask(string id, string title, Importance importance, DateTime expiredDate, string description)
         {
                 TaskEntity taskEntity = _repositoryTask.GetById(id);
-                taskEntity = taskEntityNew;
+
+                taskEntity.Title = title;
+                taskEntity.Importance = importance;
+                taskEntity.ExpirationDate = expiredDate;
+                taskEntity.Description = description;
+
                 return _repositoryTask.Update(taskEntity);
         }
     }
